@@ -1,2 +1,2 @@
-# blog_solution
+# blog_static
 blog_solution
